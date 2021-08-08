@@ -147,7 +147,3 @@ if Timer:
 - **Roll it!**
 
 ---
-
-shivam_prajapati/ 08-08-2021 © <a href="https://github.com/ShivamPrajapati2001" target="_blank">Shivam Prajapati</a>.
-
-akansha-daiya/ 08-08-2021 © <a href="https://github.com/Akansha-Daiya" target="_blank">Akansha Daiya</a>.
