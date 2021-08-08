@@ -141,11 +141,13 @@ if Timer:
 - **Option 2**
     - 👯 Clone this repo:
     ```
-    $ git clone https://github.com/saimj7/People-Counting-in-Real-Time.git
+    $ git clone https://github.com/ShivamPrajapati2001/People_Counter.git
     ```
 
 - **Roll it!**
 
 ---
 
-saimj7/ 19-08-2020 © <a href="http://saimj7.github.io" target="_blank">Sai_Mj</a>.
+shivam_prajapati/ 08-08-2021 © <a href="https://github.com/ShivamPrajapati2001" target="_blank">Shivam Prajapati</a>.
+
+akansha-daiya/ 08-08-2021 © <a href="https://github.com/Akansha-Daiya" target="_blank">Akansha Daiya</a>.
